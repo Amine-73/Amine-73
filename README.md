@@ -18,4 +18,4 @@ I am a passionate developer focused on building clean, user-friendly web applica
 ---
 
 ### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/amine-channa-96a447348/))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amine-channa-96a447348/)
